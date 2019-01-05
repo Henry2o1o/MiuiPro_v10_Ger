@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="press_color_to_apply">Klicken Sie auf die gewünschte Farbe, um diese auszuwählen.</string> 
+    <string name="auto_app_launch">Startanwendung</string>
+    <string name="cat_1">Reinigung wird ausgeführt...</string>
+    <string name="cat_2">Bluetooth deaktiviert</string>
+    <string name="cat_3">Bluetooth aktiviert</string>
+    <string name="cat_4">Mobile Daten sind deaktiviert</string>
+    <string name="cat_5">Mobile Daten sind aktiviert</string>
+    <string name="cat_6">WLAN deaktiviert</string>
+    <string name="cat_7">WLAN aktiviert</string>
+    <string name="not_setup_app">Die Sprachassistent-App wurde nicht konfiguriert.</string>	
+</resources>

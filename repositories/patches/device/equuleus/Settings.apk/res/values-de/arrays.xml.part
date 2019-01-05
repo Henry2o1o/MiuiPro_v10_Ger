@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ios_toggle_entries">
+        <item>Standard</item>
+        <item>Bluetooth und GPS</item>
+        <item>Symbole in der Nähe der Uhr</item> 
+		<item>Zweite Symbolreihe</item>
+  </string-array>
+</resources>

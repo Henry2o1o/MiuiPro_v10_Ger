@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="kg_too_many_failed_attempts_countdown">
+    <item quantity="other">In %d Sekunden noch einmal versuchen.</item>
+    <item quantity="one">In 1 Sekunde noch einmal versuchen.</item>
+  </plurals>
+</resources>

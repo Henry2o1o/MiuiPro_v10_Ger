@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cityname_1">Jugend</string>
+    <string name="cityname_2">Brise</string>
+    <string name="cityname_3">Ausflug</string>
+    <string name="cityname_4">Lebenskraft</string>
+    <string name="cityname_5">Reize</string>
+    <string name="cityname_6">Fashion Gallerie</string>
+</resources>

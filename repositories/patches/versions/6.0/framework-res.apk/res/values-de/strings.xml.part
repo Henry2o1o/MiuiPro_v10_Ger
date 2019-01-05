@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_enabled">Eingabehilfe eingeschaltet</string>
+  <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripte können installiert werden, um den Zugriff auf Appinhalte zu erleichtern</string>
+  <string name="capability_title_canRequestEnhancedWebAccessibility">Verbesserte Webbedienung aktivieren</string>
+  <string name="configure_input_methods">Tastatur auswählen</string>
+  <string name="continue_to_enable_accessibility">Drücken Sie mit zwei Fingern, um die Bedienungshilfen zu aktivieren</string>
+  <string name="enable_accessibility_canceled">Bedienungshilfen abgebrochen</string>
+  <string name="global_action_reboot">Neu starten</string>
+  <string name="keyboard_headset_required_to_hear_password">Schließen Sie ein Headset an, um das Passwort gesprochen zu hören</string>
+  <string name="keyboard_password_character_no_headset">Punkt.</string>
+  <string name="reboot_confirm">Telefon wird neu gestartet</string>
+  <string name="reboot_title">Neu starten</string>
+  <string name="RestrictedOnAll">Alle Sprach-/Daten-/SMS-Dienste sind gesperrt</string>
+  <string name="RestrictedOnAllVoice">Alle Sprachdienste sind gesperrt</string>
+  <string name="RestrictedOnData">Datendienst ist gesperrt</string>
+  <string name="RestrictedOnEmergency">Notruf ist gesperrt</string>
+  <string name="RestrictedOnNormal">Sprachdienst ist gesperrt</string>
+  <string name="RestrictedOnSms">SMS-Dienst ist gesperrt</string>
+  <string name="RestrictedOnVoiceData">Sprach-/Datendienste sind gesperrt</string>
+  <string name="RestrictedOnVoiceSms">Sprach-/SMS-Dienste sind gesperrt</string>
+  <string name="ssl_ca_cert_warning">Netzwerk wird möglicherweise überwacht</string>
+</resources>

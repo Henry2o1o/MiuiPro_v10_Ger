@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_backlight_entries"> 
+        <item>Nur eingehende Anrufe</item> 
+        <item>Nach dem Annehmen des Anrufs</item> 
+        <item>Immer mit dem eingehenden</item> 
+        <item>Immer mit ausgehenden</item> 
+    </string-array> 
+    <string-array name="call_entries"> 
+        <item>Nichts</item> 
+        <item>Dialer öffnen</item> 
+        <item>Beenden des Desktops</item> 
+        <item>Beenden und Sperren des Telefons</item> 
+    </string-array> 
+   	<string-array name="incall_small_background_entries"> 
+	    <item>Standard</item>
+        <item>Agent</item> 
+        <item>Karnickel</item> 
+		<item>Maske</item> 
+		<item>MI Logo</item> 
+		<item>Unbekannt</item>
+    </string-array>
+	<string-array name="incall_background_entries"> 
+	    <item>Standard</item>
+        <item>MiuiPro</item> 
+        <item>Schrei</item> 
+        <item>Hände hinter dem Glas</item> 
+        <item>Kirschblüte</item> 
+        <item>Geist</item> 
+    </string-array> 
+    <string-array name="set_samplingrate_entries">
+        <item>Default (8000 Hz)</item>
+        <item>16000 Hz</item>
+        <item>22050 Hz</item>
+        <item>44100 Hz</item>
+    </string-array>
+    <string-array name="set_bitrate_entries">
+        <item>Default (8 kbps)</item>
+        <item>24 kbps</item>
+        <item>32 kbps</item>
+        <item>48 kbps</item>
+        <item>64 kbps</item>
+        <item>96 kbps</item>
+        <item>128 kbps</item>
+    </string-array>
+   	<string-array name="show_search_entries"> 
+        <item>Anzeigen</item> 
+        <item>In Kontakten anzeigen</item> 
+        <item>Im Dialer anzeigen</item> 
+        <item>ausblenden</item> 
+    </string-array> 
+   	<string-array name="key_call_entries"> 
+        <item>Ausblenden</item> 
+        <item>Anzeigen</item> 
+    </string-array> 
+   	<string-array name="call_home_entries"> 
+        <item>Anruf annehmen</item> 
+        <item>Anruf ablehnen</item> 
+        <item>Ton aus</item> 
+        <item>Deaktiviert</item> 
+    </string-array>
+	<string-array name="call_windows_entries">  
+        <item>Im Vollbildmodus</item>  
+        <item>Popup-Fenster</item>  
+    </string-array>
+</resources>
