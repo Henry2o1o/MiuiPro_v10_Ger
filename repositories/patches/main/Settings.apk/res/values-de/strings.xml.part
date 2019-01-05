@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="4G_LTE_title">LTE statt 4G anzeigen</string>
-  <string name="airplane_icon_title">Flugzeugmodussymbol ausblenden</string>
+  <string name="airplane_icon_title">Flugmodussymbol ausblenden</string>
   <string name="alarm_icon_title">Alarm ausblenden</string>
   <string name="alpha_build">\nAlpha</string>
   <string name="animation_framing_title">Bildfrequenz</string>
@@ -9,7 +9,7 @@
   <string name="bar_shadow_title">Symbolreflexion ausblenden</string>
   <string name="battery_level">Einstellung zum Ladezustand</string>
   <string name="battery_off_title">Wenn Akku voll aufgeladen</string>
-  <string name="bluetooth_icon_title">BT-Kopfhörer-Symbol ausblenden</string>
+  <string name="bluetooth_icon_title">BT-Kopfhörersymbol ausblenden</string>
   <string name="brightness_panel_title">Helligkeitregler ausblenden</string>
   <string name="charging_display">Einschalten des Bildschirms während des Ladevorgangs</string>
   <string name="charging_sounds_full_title">Ton wenn Akku voll geladen ist</string>
@@ -18,7 +18,7 @@
   <string name="close_battery_title">Kein Energiesparen notwendig</string>
   <string name="close_folder_title">Automatisches Schließen von Ordnern</string>
   <string name="critical_battery_title">Kritisches Stufe</string>
-  <string name="crt_animation_title">Bildschirm aus Animation</string>
+  <string name="crt_animation_title">Animation bei Bildschirm aus</string>
   <string name="def_audio_title">Einstellen der Lautstärketasten</string>
   <string name="developer_build">\nBeta</string>
   <string name="dim_advanced_summary">%s Prozent der Zeit vor dem Ruhezustand</string>
@@ -42,9 +42,9 @@
   <string name="icon_on">Anzeigen</string>
   <string name="icon_shadow_title">Symbolschatten auf dem Desktop</string>
   <string name="ios_toggle_title">Symbolanordnung</string>
-  <string name="launch_camera">Ausführen der Anwendung</string>
+  <string name="launch_camera">Ausführen der App</string>
   <string name="launch_count_label">Zuletzt geöffnete Apps</string>
-  <string name="launch_my_app_title">Startanwendung</string>
+  <string name="launch_my_app_title">Startapp</string>
   <string name="listview_animation_title">List Animation</string>
   <string name="listview_interpolator_title">List Interpolation</string>
   <string name="low_battery_percent_summary">bei: %s%</string>
@@ -66,7 +66,7 @@
   <string name="powermenu_title">Deaktivieren Sie das erweiterte Neustartmenü</string>
   <string name="round_toggle_title">Abgerundete Bildschirmecken</string>
   <string name="row_icon_title">Dynamische Symbole</string>
-  <string name="runapp_notifications_title">Benachrichtigungen für laufende Anwendungen</string>
+  <string name="runapp_notifications_title">Benachrichtigungen für laufende Apps</string>
   <string name="search_menu_summary">Sucheinstellungen für [Aufwärts wischen]</string>
   <string name="select_custom_app_title">Liste der verfügbaren Aktionen</string>
   <string name="show_search_title">Suchleiste ausblenden</string>
@@ -75,8 +75,8 @@
   <string name="smart_mobile_network_settings_title">Datenübertragungsstatus und Netzwerkmodus</string>
   <string name="smart_mobile_network_title">Intelligentes mobiles Netzwerk</string>
   <string name="smart_mobile_title">Intelligente Netzwerkeinstellungen</string>
-  <string name="smart_mobiledata_off">Mobile Daten sind deaktiviert</string>
-  <string name="smart_mobiledata_on">Mobile Daten sind aktiviert</string>
+  <string name="smart_mobiledata_off">Mobile Daten sind aus</string>
+  <string name="smart_mobiledata_on">Mobile Daten sind an</string>
   <string name="smart_timer">Netzwerkübertragungszeit bei 2G</string>
   <string name="smart_timer_sleepon">Aufwachzeit bei 2G</string>
   <string name="smart_wifi_data_transfer">Deaktivieren Sie WLAN, wenn Sie anrufen.</string>
@@ -137,7 +137,7 @@
   <string name="ts_continuous_title">Kontinuierliches Schalten</string>
   <string name="ts_direct_title">Schaltrichtung</string>
   <string name="ts_keycode_title">Umschalttaste</string>
-  <string name="ts_limit_title">Anwendungseinschränkungen</string>
+  <string name="ts_limit_title">Appeinschränkungen</string>
   <string name="ts_longpress_title">Langes Drücken</string>
   <string name="ts_vibration_title">Dauer der Vibration</string>
   <string name="vibrate_on">Vibration beim Entsperren</string>
@@ -168,7 +168,7 @@
   <string name="GSM_auto">Automatisch GSM (PRL)</string>
   <string name="CDMA_auto">Automatisch CDMA (PRL)</string>
   <string name="CDMA_only">Nur CDMA</string>
-  <string name="EvDo_only">Nur EvDo</string>
+  <string name="EvDo_only">Nur EVDO</string>
   <string name="Global_auto">Automatisch Global (PRL)</string>
   <string name="LTE_CDMA_auto">Automatisch LTE/CDMA (PRL)</string>
   <string name="LTE_UMTS_auto">Automatisch LTE/UMTS (PRL)</string>
@@ -183,7 +183,7 @@
   <string name="Min_60s">Mindestens 60s</string>
   <string name="allowed_set">0.0.0.0 gestattet</string>
   <string name="not_allowed_set">0.0.0.0 nicht gestattet</string>
-  <string name="no_neighboring_cells">keine benachbarten Zellen</string>
+  <string name="no_neighboring_cells">Keine benachbarten Zellen</string>
   <string name="app_assistant_title">Sprachassistent-Symbol</string>
   <string name="icon_setnet_title">Funknetzsymbol</string>
   <string name="icon_setnet_on">Vertikal</string>
@@ -198,7 +198,7 @@
   <string name="ga_gestures_edit">Bearbeiten</string>
   <string name="ga_gestures_empty">Keine Gesten</string>
   <string name="ga_gestures_error_loading">%s kann nicht geladen werden. Stellen Sie sicher, dass Sie Zugang zum Speicher haben.</string>
-  <string name="ga_gestures_loading">Gesten laden...</string>
+  <string name="ga_gestures_loading">Gesten laden…</string>
   <string name="ga_gestures_rename_label">Name der Geste</string>
   <string name="ga_gestures_rename_title">Geste umbenennen</string>
   <string name="ga_save_success">Die Geste wird für %s gespeichert</string>

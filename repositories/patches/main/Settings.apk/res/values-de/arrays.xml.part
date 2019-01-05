@@ -5,13 +5,13 @@
         <item>Ausschalt-Menü</item> 
         <item>Zuletzt geöffnete Apps</item> 
         <item>Telefon</item> 
-        <item>Sound Mode: Ton / Vibration</item> 
+        <item>Sound Mode: Ton/Vibration</item> 
         <item>Benachrichtigungen</item> 
         <item>WLAN</item> 
         <item>Bluetooth</item> 
         <item>Mobile Daten</item> 
         <item>Speicher löschen</item> 
-        <item>Anwendung ausführen</item> 
+        <item>App ausführen</item> 
         <item>Deaktiviert</item> 
     </string-array> 
    	<string-array name="smart_mobiledata_entries"> 
@@ -36,9 +36,9 @@
         <item>In einer Stunde</item> 
     </string-array> 
 	<string-array name="ios_toggle_entries">
-	    <item>Standard</item>
-		<item>IOS Stil</item>
-		<item>MiuiPro Stil</item>
+	<item>Standard</item>
+	<item>IOS Stil</item>
+	<item>MiuiPro Stil</item>
         <item>AOSP Stil</item>
 	</string-array>
     <string-array name="text_bat_color_entries">
@@ -49,7 +49,7 @@
 	<string-array name="sim_select_entries"> 
         <item>SIM 1</item> 
         <item>SIM 2</item> 
-	<item>SIM 1 / SIM 2</item> 
+	<item>SIM 1/SIM 2</item> 
     </string-array> 
   	<string-array name="toggles_line_entries"> 
         <item>Einzeilig</item> 
