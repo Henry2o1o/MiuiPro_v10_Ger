@@ -523,6 +523,7 @@
   <string name="tethering_hardware_offload_summary">Falls verfügbar, Hardwarebeschleunigung für Tethering verwenden</string>
   <string name="time_spent_in_app_pref_title">In der App verbrachte Zeit</string>
   <string name="time_unit_just_now">Gerade eben</string>
+  <string name="type_name_on_title">Mobilfunkstandard in der Statusleiste</string>
   <string name="trigger_carrier_provisioning">Nutzerverwaltung durch den Anbieter auslösen</string>
   <string name="unknown_unavailability_setting_summary">Einstellung nicht verfügbar</string>
   <string name="unsupported_setting_summary">Die Einstellung wird auf diesem Telefon nicht unterstützt</string>
