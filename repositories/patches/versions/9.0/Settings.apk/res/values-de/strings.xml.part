@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="2G_E_off_title">Type 2G/E</string>
+  <string name="2G_E_title">2G statt E anzeigen</string>
+  <string name="4G_LTE_off_title">Type 4G/LTE</string>
   <string name="abc_slice_error">Verbindung nicht möglich</string>
   <string name="abc_slice_more">Mehr</string>
   <string name="abc_slice_permission_allow">Zulassen</string>
@@ -523,6 +526,7 @@
   <string name="tethering_hardware_offload_summary">Falls verfügbar, Hardwarebeschleunigung für Tethering verwenden</string>
   <string name="time_spent_in_app_pref_title">In der App verbrachte Zeit</string>
   <string name="time_unit_just_now">Gerade eben</string>
+  <string name="type_name_info">Netzwerktypen</string>
   <string name="type_name_on_title">Mobilfunkstandard in der Statusleiste</string>
   <string name="trigger_carrier_provisioning">Nutzerverwaltung durch den Anbieter auslösen</string>
   <string name="unknown_unavailability_setting_summary">Einstellung nicht verfügbar</string>
