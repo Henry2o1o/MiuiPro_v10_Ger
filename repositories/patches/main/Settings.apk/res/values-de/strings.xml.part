@@ -213,4 +213,5 @@
   <string name="set_peeking_duration_title">Symbolanzeigedauer</string>
   <string name="toast_appname_title">Appname als Popup</string>
   <string name="toast_appname_summary">Zeigt den Appname als Warnmeldung an</string>
+  <string name="type_name_connected_title">Nur bei aktivem mobilen Internet</string>
 </resources>
