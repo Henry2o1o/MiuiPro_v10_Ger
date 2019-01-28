@@ -6,7 +6,7 @@
   <string name="alpha_build">\nAlpha</string>
   <string name="animation_framing_title">Bildfrequenz</string>
   <string name="bar_name_title">Symbolbtext in der Dockleiste ausblenden</string>
-  <string name="bar_shadow_title">Symbolreflexion ausblenden</string>
+  <string name="bar_shadow_title">Symbolschatten ausblenden</string>
   <string name="battery_level">Einstellung zum Ladezustand</string>
   <string name="battery_off_title">Wenn Akku voll aufgeladen</string>
   <string name="bluetooth_icon_title">BT-Kopfhörersymbol ausblenden</string>
@@ -25,6 +25,7 @@
   <string name="dim_advanced_title">Manuelle Zeiteinstellung bis zum Abdunkeln des Bildschirms</string>
   <string name="dim_advanced_title_seek">Zeit bis zum Dimmen</string>
   <string name="double_tap_app_title">App für [Doppelt tippen]</string>
+  <string name="double_tap_lock_keyguard_title">Doppelt tippen zum Sperren</string>
   <string name="doubletap_home">Doppelt tippen</string>
   <string name="enable_vertical_clock">Senkrechte Uhr</string>
   <string name="enable_vertical_clock_summary">Senkrechte Uhr im Sperrbildschirm</string>
