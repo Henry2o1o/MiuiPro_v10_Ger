@@ -30,6 +30,7 @@
   <string name="dim_advanced_title">Manuelle Zeiteinstellung bis zum Abdunkeln des Bildschirms</string>
   <string name="dim_advanced_title_seek">Zeit bis zum Dimmen</string>
   <string name="Disabled_set">Deaktiviert</string>
+  <string name="dnd_icon_title">'Nicht stören' Symbol ausblenden</string>
   <string name="double_tap_app_title">App für [Doppelt tippen]</string>
   <string name="double_tap_lock_keyguard_title">Doppelt tippen zum Sperren</string>
   <string name="doubletap_home">Doppelt tippen</string>
@@ -104,6 +105,7 @@
   <string name="notification_icon_title">Avatar in Benachrichtigungen</string>
   <string name="numberpicker_change_summary">Kalender, Wecker, etc.</string>
   <string name="numberpicker_change_title">Ton beim Einstellen der Uhrzeit</string>
+  <string name="other_icon_title">Symbole im geöffneten Panel</string>
   <string name="picker_activities">Aktion</string>
   <string name="policy_control_title">Vollbildmodus</string>
   <string name="policy_title">Bildschirmmodus</string>
