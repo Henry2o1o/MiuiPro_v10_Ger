@@ -31,6 +31,7 @@
   <string name="dim_advanced_title_seek">Zeit bis zum Dimmen</string>
   <string name="Disabled_set">Deaktiviert</string>
   <string name="dnd_icon_title">'Nicht stören' Symbol ausblenden</string>
+  <string name="dnd_notification_title">Benachrichtigungen im DND-Modus an</string>
   <string name="double_tap_app_title">App für [Doppelt tippen]</string>
   <string name="double_tap_lock_keyguard_title">Doppelt tippen zum Sperren</string>
   <string name="doubletap_home">Doppelt tippen</string>
