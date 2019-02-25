@@ -22,7 +22,7 @@
   <string name="app_name">MiMoji</string>
   <string name="AR_IMG_SHARE">Mimoji</string>
   <string name="BLOG_APP_NO_INSTALL">App nicht installiert</string>
-  <string name="cta_message">Zugriff auf das Netzwerk, die Aufzeichnung und Kamera?</string>
+  <string name="cta_message">Sie müssen der <a href="http://www.miui.com/res/doc/privacy/en.html">《Datenschutzerklärung》</a>, den Zugriff auf das Netzwerk und der Kameraaufnahme zustimmen. Jetzt erlauben?</string>
   <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/de.html</string>
   <string name="error_tip_out_range">Halte das Gerät vor dein Gesicht.</string>
   <string name="error_tip_sleep">Zum Fortfahren drücken</string>
@@ -46,6 +46,7 @@
   <string name="text_10">Teilen</string>
   <string name="text_11">Mehr</string>
   <string name="text_12">Abbrechen</string>
-  <string name="webo_version_too_low">sie müssen die App aktualisieren.</string>
+  <string name="text_13">Zugriff auf die Kamera erlauben?</string>
+  <string name="webo_version_too_low">Sie müssen die App aktualisieren</string>
   <string name="WICHART_APP_NO_INSTALL">App nicht installiert</string>
 </resources>
