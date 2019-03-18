@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_quick_title">Symbol Schnellladen ausblenden</string>
+    <string name="ios_toggle_off">Nach Zeit</string>
+    <string name="ios_toggle_on">Immer</string>
+    <string name="ios_toggle_title">Benachrichtigungssymbole</string>
+    <string name="vpn_icon_title">VPN-Symbol ausblenden</string>
+</resources>
