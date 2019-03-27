@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="launcher_gesture_entries"> 
+    <string-array name="battery_indicator_style_entries">
+        <item>Grafisch</item>
+        <item>Prozent (im Symbol)</item>
+        <item>Prozent (neben dem Symbol)</item>
+        <item>Nur Prozent</item>
+        <item>Balken</item>
+        <item>Nicht anzeigen</item>
+    </string-array>
+    <string-array name="launcher_gesture_entries"> 
         <item>Bildschirm ausschalten</item> 
         <item>Ausschalt-Menü</item> 
         <item>Zuletzt geöffnete Apps</item> 
@@ -14,7 +22,7 @@
         <item>App ausführen</item> 
         <item>Deaktiviert</item> 
     </string-array> 
-   	<string-array name="smart_mobiledata_entries"> 
+    <string-array name="smart_mobiledata_entries"> 
         <item>Nicht ändern</item> 
         <item>Nur 2G</item> 
         <item>Nur 3G</item> 
@@ -35,27 +43,27 @@
         <item>In 30 Minuten</item> 
         <item>In einer Stunde</item> 
     </string-array> 
-	<string-array name="ios_toggle_entries">
+    <string-array name="ios_toggle_entries">
 	<item>Standard</item>
 	<item>IOS Stil</item>
 	<item>MiuiPro Stil</item>
         <item>AOSP Stil</item>
-	</string-array>
+    </string-array>
     <string-array name="text_bat_color_entries">
         <item>Standard</item>
         <item>Farbverlauf</item>
         <item>Benutzerdefinierte Farbe</item>
     </string-array>
-	<string-array name="sim_select_entries"> 
+    <string-array name="sim_select_entries"> 
         <item>SIM 1</item> 
         <item>SIM 2</item> 
 	<item>SIM 1/SIM 2</item> 
     </string-array> 
-  	<string-array name="toggles_line_entries"> 
+    <string-array name="toggles_line_entries"> 
         <item>Einzeilig</item> 
         <item>Alle Zeilen</item> 
     </string-array> 
-	<string-array name="smart_timer_entries">
+    <string-array name="smart_timer_entries">
         <item>Nicht ändern</item>
         <item>10 Minuten</item>
         <item>20 Minuten</item>
@@ -88,7 +96,7 @@
         <item>Vom Zentrum zum Zentrum</item> 
         <item>Benutzerdefiniert</item> 
     </string-array> 
-   	<string-array name="listview_animation_entries"> 
+    <string-array name="listview_animation_entries"> 
         <item>Standard</item> 
         <item>Welle (nach links)</item> 
         <item>Welle (nach rechts)</item> 
@@ -113,7 +121,7 @@
         <item>Zyklisch</item> 
         <item>Linear</item> 
     </string-array> 
-  	<string-array name="crt_animation_entries"> 
+    <string-array name="crt_animation_entries"> 
         <item>Deaktiviert</item> 
         <item>Langsam</item> 
         <item>Langsamer</item> 
@@ -123,52 +131,52 @@
         <item>Sehr schnell</item> 
         <item>Am Schnellsten</item> 
     </string-array> 
-  	<string-array name="crt_animation_framing_entries"> 
+    <string-array name="crt_animation_framing_entries"> 
         <item>Standard</item> 
         <item>50 Bilder/s</item> 
         <item>25 Bilder/s</item> 
         <item>10 Bilder/s</item> 
         <item>5 Bilder/s</item> 
     </string-array> 
-   	<string-array name="crt_fade_entries"> 
+    <string-array name="crt_fade_entries"> 
         <item>Standard</item> 
         <item>CRT (S/W TV)</item> 
         <item>Verringern</item>
     </string-array> 
-   	<string-array name="smart_timer_sleepon_entries">
+    <string-array name="smart_timer_sleepon_entries">
         <item>Nicht aktivieren</item>
         <item>10 Minuten</item>
         <item>20 Minuten</item>
         <item>30 Minuten</item>
     </string-array>
-   	<string-array name="low_battery_warning_entries"> 
+    <string-array name="low_battery_warning_entries"> 
         <item>Nachricht und Ton</item> 
         <item>Nur Nachricht</item> 
         <item>Nur Ton</item> 
         <item>Deaktiviert</item> 
     </string-array> 
-   	<string-array name="battery_off_entries"> 
+    <string-array name="battery_off_entries"> 
         <item>LED aus</item> 
         <item>LED an</item> 
     </string-array> 
-   	<string-array name="set_haptic_entries"> 
+    <string-array name="set_haptic_entries"> 
         <item>Standard</item> 
         <item>Niedrig</item> 
         <item>Stark</item> 
     </string-array>
-	<string-array name="mtp_default_entries">
+    <string-array name="mtp_default_entries">
         <item>Immer aufladen</item>
         <item>Immer MTP</item>
         <item>MTP, wenn der Bildschirm nicht mit einem Passwort gesperrt ist.</item> 
     </string-array> 
-  	<string-array name="volbtn_action_entries"> 
+    <string-array name="volbtn_action_entries"> 
         <item>Nächster</item> 
         <item>Pause</item> 
         <item>Abspielen</item> 
         <item>Abspielen / Pause</item> 
         <item>Bisherige</item> 
     </string-array> 
-   	<string-array name="city_name">
+    <string-array name="city_name">
         <item>Marshall Islands</item>
         <item>Midway Island</item>
         <item>Hawaii</item>
@@ -342,13 +350,13 @@
         <item>Pacific/Tongatapu</item>
         <item>Asia/Jakarta</item>
     </string-array>	
-	<string-array name="policy_control_entries"> 
+    <string-array name="policy_control_entries"> 
         <item>Immersiv Aus (Standard)</item> 
         <item>Immersive An (Vollbild)</item> 
         <item>Statusleiste ausblenden</item> 
         <item>Navigationsleiste ausblenden</item> 
     </string-array> 
-   	<string-array name="ts_keycode_entries"> 
+    <string-array name="ts_keycode_entries"> 
         <item>Startseite</item> 
         <item>Geöffnete</item> 
     </string-array> 
@@ -364,21 +372,21 @@
         <item>Zurück</item> 
         <item>Vorwärts</item> 
     </string-array> 
-   	<string-array name="def_audio_entries"> 
+    <string-array name="def_audio_entries"> 
         <item>Klingelton</item> 
         <item>Multimedia</item> 
         <item>Benachrichtigungen</item> 
     </string-array> 
-	<string-array name="folder_toggle_entries"> 
+    <string-array name="folder_toggle_entries"> 
         <item>3 Spalten</item> 
         <item>4 Spalten</item> 
     </string-array>
-	<string-array name="aod_style_clock_entries"> 
+    <string-array name="aod_style_clock_entries"> 
         <item>Horizontal</item> 
         <item>Vertikal</item> 
         <item>Eine Zeile</item> 
     </string-array>
-   	<string-array name="gesture_anywhere_position_entries"> 
+    <string-array name="gesture_anywhere_position_entries"> 
         <item>Links</item> 
         <item>Rechts</item> 
     </string-array> 
