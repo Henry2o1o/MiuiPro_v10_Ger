@@ -16,7 +16,7 @@
   <string name="brightness_panel_title">Helligkeitregler ausblenden</string>
   <string name="CDMA_auto">Automatisch CDMA (PRL)</string>
   <string name="CDMA_only">Nur CDMA</string>
-  <string name="charging_display">Bildschirms während des Ladevorgangs einschalten</string>
+  <string name="charging_display">Bildschirm während des Ladevorgangs einschalten</string>
   <string name="charging_sounds_full_title">Ton wenn Akku voll geladen ist</string>
   <string name="charging_sounds_off">Ton beim entfernen des Ladegerätes</string>
   <string name="charging_sounds_on">Ton beim anschließen des Ladegerätes</string>
