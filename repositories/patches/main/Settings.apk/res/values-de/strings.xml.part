@@ -31,7 +31,7 @@
   <string name="dim_advanced_title_seek">Zeit bis zum Dimmen</string>
   <string name="Disabled_set">Deaktiviert</string>
   <string name="dnd_icon_title">'Bitte nicht stören' Symbol ausblenden</string>
-  <string name="dnd_notification_title">Benachrichtigungen im DND-Modus an</string>
+  <string name="dnd_notification_title">Benachrichtigungston im DND-Modus</string>
   <string name="double_tap_app_title">App für [Doppelt tippen]</string>
   <string name="double_tap_lock_keyguard_title">Doppelt tippen zum Sperren</string>
   <string name="doubletap_home">Doppelt tippen</string>
@@ -107,6 +107,8 @@
   <string name="numberpicker_change_summary">Kalender, Wecker, etc.</string>
   <string name="numberpicker_change_title">Ton beim Einstellen der Uhrzeit</string>
   <string name="other_icon_title">Symbole im geöffneten Panel</string>
+  <string name="other_size_title">Anzeigegröße</string>
+  <string name="other_weather_title">Einstellungen für Wetteranzeige</string>
   <string name="picker_activities">Aktion</string>
   <string name="policy_control_title">Vollbildmodus</string>
   <string name="policy_title">Bildschirmmodus</string>
@@ -118,6 +120,8 @@
   <string name="search_bluetooth_enable">Bluetooth</string>
   <string name="search_menu_summary">Sucheinstellungen für [Aufwärts wischen]</string>
   <string name="select_custom_app_title">Liste der verfügbaren Aktionen</string>
+  <string name="set_battery_size_title">Akku-Prozentanzeige (Standard 11)</string>
+  <string name="set_clock_size_title">Uhr (Standard 11)</string>
   <string name="set_peeking_duration_title">Symbolanzeigedauer</string>
   <string name="show_search_title">Suchleiste ausblenden</string>
   <string name="sim_select_title">Einstellen des Typs für:</string>
@@ -140,7 +144,12 @@
   <string name="smartscreen_off">Die Zeitsteuerung ist immer aktiv</string>
   <string name="smartscreen_on">Die Zeitsteuerung ist nur aktiv, wenn der Bildschirm ausgeschaltet ist.</string>
   <string name="smarttimer">Verbindungszeit steuern</string>
+  <string name="show_weather_city_title">Stadt anzeigen</string>
+  <string name="show_weather_description_title">Beschreibung anzeigen</string>
+  <string name="show_weather_title">Wetter anzeigen</string>
   <string name="sound_icon_title">Ton ausblenden</string>
+  <string name="speed_dual_summary">Statusleiste 2-zeilig anzeigen</string>
+  <string name="speed_dual_title">Netzwerkgeschwindigkeit in der Statusleiste</string>
   <string name="stable_build">\nStabil</string>
   <string name="status_bar_network_speed_title">Aktualisierungsintervall</string>
   <string name="status_bar_screen_button_key">Bildschirmtasten</string>
@@ -209,6 +218,7 @@
   <string name="volume_panel_summary">Zeit: %s sek</string>
   <string name="volume_panel_title">Lautstärkebalken</string>
   <string name="volume_ring_description">Ringtone</string>
+  <string name="vpn_icon_title">VPN-Symbol ausblenden</string>
   <string name="WCDMA_only">Nur WCDMA</string>
   <string name="WCDMA_preferred">Bevorzugt WCDMA</string>
   <string name="weather_panel_title">Wetter ausblenden</string>
