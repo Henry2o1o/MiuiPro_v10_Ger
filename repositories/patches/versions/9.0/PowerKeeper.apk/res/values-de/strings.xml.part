@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="set_gsmcore_title">Google Play Dienste deaktivieren</string>
+  <string name="set_gsmcore_summary">Google Play Dienste im Extrem-Energiesparmodus deaktivieren</string>
+</resources>
