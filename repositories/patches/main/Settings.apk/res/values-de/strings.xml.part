@@ -12,6 +12,7 @@
   <string name="bar_shadow_title">Symbolschatten ausblenden</string>
   <string name="battery_level">Einstellung zum Ladezustand</string>
   <string name="battery_off_title">Wenn Akku voll aufgeladen</string>
+  <string name="battery_percent_title">Prozentposition</string>
   <string name="bluetooth_icon_title">BT-Kopfhörersymbol ausblenden</string>
   <string name="brightness_panel_title">Helligkeitregler ausblenden</string>
   <string name="CDMA_auto">Automatisch CDMA (PRL)</string>
