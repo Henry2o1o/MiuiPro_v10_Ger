@@ -2,47 +2,51 @@
 <resources>
     <string-array name="battery_indicator_style_entries">
         <item>Grafisch</item>
-        <item>Prozent (im Symbol)</item>
-        <item>Prozent (neben dem Symbol)</item>
+        <item>Prozent im Symbol</item>
+        <item>Prozent neben dem Symbol</item>
         <item>Nur Prozent</item>
         <item>Balken</item>
         <item>Nicht anzeigen</item>
     </string-array>
-    <string-array name="launcher_gesture_entries"> 
-        <item>Bildschirm ausschalten</item> 
-        <item>Ausschalt-Menü</item> 
-        <item>Zuletzt geöffnete Apps</item> 
-        <item>Telefon</item> 
-        <item>Sound Mode: Ton/Vibration</item> 
-        <item>Benachrichtigungen</item> 
-        <item>WLAN</item> 
-        <item>Bluetooth</item> 
-        <item>Mobile Daten</item> 
-        <item>Speicher löschen</item> 
-        <item>App ausführen</item> 
-        <item>Deaktiviert</item> 
-    </string-array> 
-    <string-array name="smart_mobiledata_entries"> 
-        <item>Nicht ändern</item> 
-        <item>Nur 2G</item> 
-        <item>Nur 3G</item> 
-        <item>Nur 4G</item> 
-        <item>Bevorzugt 3G</item> 
-        <item>Bevorzugt 4G</item> 
-        <item>2G/3G (GSM/WCDMA)</item> 
-        <item>4G/3G (LTE/WCDMA)</item> 
-        <item>2G/3G/4G (GSM/WCDMA/LTE)</item> 
-    </string-array> 
-    <string-array name="timer_entries"> 
-        <item>Nicht trennen</item> 
-        <item>In einer Sekunde</item> 
-        <item>In einer Minute</item> 
-        <item>In 5 Minuten</item> 
-        <item>In 10 Minuten</item> 
-        <item>In 20 Minuten</item> 
-        <item>In 30 Minuten</item> 
-        <item>In einer Stunde</item> 
-    </string-array> 
+    <string-array name="battery_percent_style_entries">
+        <item>Prozent rechts vom Symbol</item>
+        <item>Prozent links vom Symbol</item>
+    </string-array>
+    <string-array name="launcher_gesture_entries">
+        <item>Bildschirm ausschalten</item>
+        <item>Ausschalt-Menü</item>
+        <item>Zuletzt geöffnete Apps</item>
+        <item>Telefon</item>
+        <item>Sound Mode: Ton/Vibration</item>
+        <item>Benachrichtigungen</item>
+        <item>WLAN</item>
+        <item>Bluetooth</item>
+        <item>Mobile Daten</item>
+        <item>Speicher löschen</item>
+        <item>App ausführen</item>
+        <item>Deaktiviert</item>
+    </string-array>
+    <string-array name="smart_mobiledata_entries">
+        <item>Nicht ändern</item>
+        <item>Nur 2G</item>
+        <item>Nur 3G</item>
+        <item>Nur 4G</item>
+        <item>Bevorzugt 3G</item>
+        <item>Bevorzugt 4G</item>
+        <item>2G/3G (GSM/WCDMA)</item>
+        <item>4G/3G (LTE/WCDMA)</item>
+        <item>2G/3G/4G (GSM/WCDMA/LTE)</item>
+    </string-array>
+    <string-array name="timer_entries">
+        <item>Nicht trennen</item>
+        <item>In einer Sekunde</item>
+        <item>In einer Minute</item>
+        <item>In 5 Minuten</item>
+        <item>In 10 Minuten</item>
+        <item>In 20 Minuten</item>
+        <item>In 30 Minuten</item>
+        <item>In einer Stunde</item>
+    </string-array>
     <string-array name="ios_toggle_entries">
 	<item>Standard</item>
 	<item>IOS Stil</item>
@@ -54,14 +58,14 @@
         <item>Farbverlauf</item>
         <item>Benutzerdefinierte Farbe</item>
     </string-array>
-    <string-array name="sim_select_entries"> 
-        <item>SIM 1</item> 
-        <item>SIM 2</item> 
-	<item>SIM 1/SIM 2</item> 
-    </string-array> 
-    <string-array name="toggles_line_entries"> 
-        <item>Einzeilig</item> 
-        <item>Alle Zeilen</item> 
+    <string-array name="sim_select_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+	<item>SIM 1/SIM 2</item>
+    </string-array>
+    <string-array name="toggles_line_entries">
+        <item>Einzeilig</item>
+        <item>Alle Zeilen</item>
     </string-array> 
     <string-array name="smart_timer_entries">
         <item>Nicht ändern</item>
@@ -72,75 +76,75 @@
         <item>2 Stunden</item>
         <item>3 Stunden</item>
     </string-array>
-    <string-array name="toast_animation_entries"> 
-        <item>Keine</item> 
-        <item>Standard</item> 
-        <item>Glattes Erscheinungsbild / Dämpfung</item> 
-        <item>Nach rechts und zurück</item> 
-        <item>Nach links und zurück</item> 
-        <item>Von rechts nach links</item> 
-        <item>Von links nach rechts</item> 
-        <item>Animation Xylon</item> 
-        <item>Animation Toko</item> 
-        <item>Rotation</item> 
-        <item>Animation Honami</item> 
-        <item>Schnelles Auftreten</item> 
-        <item>Langsames Auftreten</item> 
-        <item>Aus der Mitte erscheinen</item> 
-        <item>Von unten erscheinen</item> 
-        <item>Transparente Rechte</item> 
-        <item>Rechts/Links Umschaltung</item> 
-        <item>Drehen mit einem Schlag von unten</item> 
-        <item>Ein Schlag aus dem Zentrum</item> 
-        <item>Drehen von unten</item> 
-        <item>Vom Zentrum zum Zentrum</item> 
-        <item>Benutzerdefiniert</item> 
-    </string-array> 
-    <string-array name="listview_animation_entries"> 
-        <item>Standard</item> 
+    <string-array name="toast_animation_entries">
+        <item>Keine</item>
+        <item>Standard</item>
+        <item>Glattes Erscheinungsbild / Dämpfung</item>
+        <item>Nach rechts und zurück</item>
+        <item>Nach links und zurück</item>
+        <item>Von rechts nach links</item>
+        <item>Von links nach rechts</item>
+        <item>Animation Xylon</item>
+        <item>Animation Toko</item>
+        <item>Rotation</item>
+        <item>Animation Honami</item>
+        <item>Schnelles Auftreten</item>
+        <item>Langsames Auftreten</item>
+        <item>Aus der Mitte erscheinen</item>
+        <item>Von unten erscheinen</item>
+        <item>Transparente Rechte</item>
+        <item>Rechts/Links Umschaltung</item>
+        <item>Drehen mit einem Schlag von unten</item>
+        <item>Ein Schlag aus dem Zentrum</item>
+        <item>Drehen von unten</item>
+        <item>Vom Zentrum zum Zentrum</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="listview_animation_entries">
+        <item>Standard</item>
         <item>Welle (nach links)</item> 
-        <item>Welle (nach rechts)</item> 
-        <item>Alpha</item> 
-        <item>Skalierung</item> 
-        <item>Stapel (nach oben)</item> 
-        <item>Stapel (nach unten)</item> 
-        <item>Ausklappen</item> 
-        <item>Einklappen</item> 
-        <item>Verrücken (nach links)</item> 
-        <item>Verrücken (nach rechts)</item> 
-    </string-array> 
-    <string-array name="listview_interpolator_entries"> 
-        <item>Standard</item> 
-        <item>Schneller</item> 
-        <item>Langsamer</item> 
-        <item>Langsames Beschleunigen</item> 
-        <item>Erwarten</item> 
-        <item>Überschreiten</item> 
-        <item>Voraussehen und übertreffen</item> 
-        <item>Aufspringen</item> 
-        <item>Zyklisch</item> 
-        <item>Linear</item> 
-    </string-array> 
-    <string-array name="crt_animation_entries"> 
-        <item>Deaktiviert</item> 
-        <item>Langsam</item> 
-        <item>Langsamer</item> 
-        <item>Am Langsamsten</item> 
-        <item>Normal</item> 
-        <item>Schnell</item> 
-        <item>Sehr schnell</item> 
-        <item>Am Schnellsten</item> 
-    </string-array> 
-    <string-array name="crt_animation_framing_entries"> 
-        <item>Standard</item> 
-        <item>50 Bilder/s</item> 
-        <item>25 Bilder/s</item> 
-        <item>10 Bilder/s</item> 
-        <item>5 Bilder/s</item> 
-    </string-array> 
-    <string-array name="crt_fade_entries"> 
-        <item>Standard</item> 
-        <item>CRT (S/W TV)</item> 
+        <item>Welle (nach rechts)</item>
+        <item>Alpha</item>
+        <item>Skalierung</item>
+        <item>Stapel (nach oben)</item>
+        <item>Stapel (nach unten)</item>
+        <item>Ausklappen</item>
+        <item>Einklappen</item>
+        <item>Verrücken (nach links)</item>
+        <item>Verrücken (nach rechts)</item>
+    </string-array>
+    <string-array name="listview_interpolator_entries">
+        <item>Standard</item>
+        <item>Schneller</item>
+        <item>Langsamer</item>
+        <item>Langsames Beschleunigen</item>
+        <item>Erwarten</item>
+        <item>Überschreiten</item>
+        <item>Voraussehen und übertreffen</item>
+        <item>Aufspringen</item>
+        <item>Zyklisch</item>
+        <item>Linear</item>
+    </string-array>
+    <string-array name="crt_animation_entries">
+        <item>Deaktiviert</item>
+        <item>Langsam</item>
+        <item>Langsamer</item>
+        <item>Am Langsamsten</item>
+        <item>Normal</item>
+        <item>Schnell</item>
+        <item>Sehr schnell</item>
+        <item>Am Schnellsten</item>
+    </string-array>
+    <string-array name="crt_animation_framing_entries">
+        <item>Standard</item>
+        <item>50 Bilder/s</item>
+        <item>25 Bilder/s</item>
+        <item>10 Bilder/s</item>
+        <item>5 Bilder/s</item>
+    </string-array>
+    <string-array name="crt_fade_entries">
+        <item>Standard</item>
+        <item>CRT (S/W TV)</item>
         <item>Verringern</item>
     </string-array> 
     <string-array name="smart_timer_sleepon_entries">
@@ -149,33 +153,33 @@
         <item>20 Minuten</item>
         <item>30 Minuten</item>
     </string-array>
-    <string-array name="low_battery_warning_entries"> 
-        <item>Nachricht und Ton</item> 
-        <item>Nur Nachricht</item> 
-        <item>Nur Ton</item> 
-        <item>Deaktiviert</item> 
-    </string-array> 
-    <string-array name="battery_off_entries"> 
-        <item>LED aus</item> 
-        <item>LED an</item> 
-    </string-array> 
-    <string-array name="set_haptic_entries"> 
-        <item>Standard</item> 
-        <item>Niedrig</item> 
-        <item>Stark</item> 
+    <string-array name="low_battery_warning_entries">
+        <item>Nachricht und Ton</item>
+        <item>Nur Nachricht</item>
+        <item>Nur Ton</item>r
+        <item>Deaktiviert</item>
+    </string-array>
+    <string-array name="battery_off_entries">
+        <item>LED aus</item>
+        <item>LED an</item>
+    </string-array>
+    <string-array name="set_haptic_entries">
+        <item>Standard</item>
+        <item>Niedrig</item>
+        <item>Stark</item>
     </string-array>
     <string-array name="mtp_default_entries">
         <item>Immer aufladen</item>
         <item>Immer MTP</item>
-        <item>MTP, wenn der Bildschirm nicht mit einem Passwort gesperrt ist.</item> 
-    </string-array> 
-    <string-array name="volbtn_action_entries"> 
-        <item>Nächster</item> 
-        <item>Pause</item> 
-        <item>Abspielen</item> 
-        <item>Abspielen / Pause</item> 
-        <item>Bisherige</item> 
-    </string-array> 
+        <item>MTP, wenn der Bildschirm nicht mit einem Passwort gesperrt ist.</item>
+    </string-array>
+    <string-array name="volbtn_action_entries">
+        <item>Nächster</item>
+        <item>Pause</item>
+        <item>Abspielen</item>
+        <item>Abspielen / Pause</item>
+        <item>Bisherige</item>
+    </string-array>
     <string-array name="city_name">
         <item>Marshall Islands</item>
         <item>Midway Island</item>
@@ -349,45 +353,45 @@
         <item>Pacific/Fiji</item>
         <item>Pacific/Tongatapu</item>
         <item>Asia/Jakarta</item>
-    </string-array>	
-    <string-array name="policy_control_entries"> 
-        <item>Immersiv Aus (Standard)</item> 
-        <item>Immersive An (Vollbild)</item> 
-        <item>Statusleiste ausblenden</item> 
-        <item>Navigationsleiste ausblenden</item> 
-    </string-array> 
-    <string-array name="ts_keycode_entries"> 
-        <item>Startseite</item> 
-        <item>Geöffnete</item> 
-    </string-array> 
-    <string-array name="ts_limit_entries"> 
-        <item>Zwei</item> 
-        <item>Drei</item> 
-        <item>Fünf</item> 
-        <item>Sieben</item> 
-        <item>Zehn</item> 
-        <item>Keine Begrenzung</item> 
-    </string-array> 
-    <string-array name="ts_direct_entries"> 
-        <item>Zurück</item> 
-        <item>Vorwärts</item> 
-    </string-array> 
-    <string-array name="def_audio_entries"> 
-        <item>Klingelton</item> 
-        <item>Multimedia</item> 
-        <item>Benachrichtigungen</item> 
-    </string-array> 
-    <string-array name="folder_toggle_entries"> 
-        <item>3 Spalten</item> 
-        <item>4 Spalten</item> 
     </string-array>
-    <string-array name="aod_style_clock_entries"> 
-        <item>Horizontal</item> 
-        <item>Vertikal</item> 
-        <item>Eine Zeile</item> 
+    <string-array name="policy_control_entries">
+        <item>Immersiv Aus (Standard)</item>
+        <item>Immersive An (Vollbild)</item>
+        <item>Statusleiste ausblenden</item>
+        <item>Navigationsleiste ausblenden</item>
     </string-array>
-    <string-array name="gesture_anywhere_position_entries"> 
-        <item>Links</item> 
-        <item>Rechts</item> 
-    </string-array> 
+    <string-array name="ts_keycode_entries">
+        <item>Startseite</item>
+        <item>Geöffnete</item>
+    </string-array>
+    <string-array name="ts_limit_entries">
+        <item>Zwei</item>
+        <item>Drei</item>
+        <item>Fünf</item>
+        <item>Sieben</item>
+        <item>Zehn</item>
+        <item>Keine Begrenzung</item>
+    </string-array>
+    <string-array name="ts_direct_entries">
+        <item>Zurück</item>
+        <item>Vorwärts</item>
+    </string-array>
+    <string-array name="def_audio_entries">
+        <item>Klingelton</item>
+        <item>Multimedia</item>
+        <item>Benachrichtigungen</item>
+    </string-array>
+    <string-array name="folder_toggle_entries">
+        <item>3 Spalten</item>
+        <item>4 Spalten</item>
+    </string-array>
+    <string-array name="aod_style_clock_entries">
+        <item>Horizontal</item>
+        <item>Vertikal</item>
+        <item>Eine Zeile</item>
+    </string-array>
+    <string-array name="gesture_anywhere_position_entries">
+        <item>Links</item>
+        <item>Rechts</item>
+    </string-array>
 </resources>
