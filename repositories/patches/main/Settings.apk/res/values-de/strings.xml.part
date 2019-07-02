@@ -126,11 +126,11 @@
   <string name="set_clock_size_title">Uhr (Standard 11)</string>
   <string name="set_peeking_duration_title">Symbolanzeigedauer</string>
   <string name="show_search_title">Suchleiste ausblenden</string>
-  <string name="sim_select_title">Einstellen des Typs für:</string>
   <string name="smart_mobile_data_transfer">Mobile Daten während des Anrufs dektivieren</string>
+  <string name="smart_mobile_one_title">Intelligentes Netzwerk SIM 1</string> 
+  <string name="smart_mobile_two_title">Intelligentes Netzwerk SIM 2</string>
   <string name="smart_mobile_network_settings_title">Datenübertragungsstatus und Netzwerkmodus</string>
   <string name="smart_mobile_network_title">Intelligentes mobiles Netzwerk</string>
-  <string name="smart_mobile_title">Intelligente Netzwerkeinstellungen</string>
   <string name="smart_mobiledata_off">Mobile Daten sind aus</string>
   <string name="smart_mobiledata_on">Mobile Daten sind an</string>
   <string name="smart_timer">Netzwerkübertragungszeit bei 2G</string>

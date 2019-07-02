@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="defalut_launcher_title">Standardlauncher</string>
+  <string name="free_style_edit_drawer">Übersicht</string>
   <string name="launcher_auto_fill_empty_title">Leere Positionen automatisch auffüllen</string>
   <string name="launcher_title">Launcher</string>
   <string name="lock_screen_cells_title">Symbolpositionen sperren</string>
@@ -14,5 +15,5 @@
   <string name="recents_config_title">Taskmanagereinstellungen</string>
   <string name="screen_cells_config_title">Weitere Symbolraster einstellen</string>
   <string name="show_mem_info_title">Speicherinfo anzeigen</string>
-  <string name="title_jeejen">Jeejen Startbildschirm</string>
+  <string name="title_jeejen">Vereinfachter Launcher</string>
 </resources>

@@ -58,11 +58,6 @@
         <item>Farbverlauf</item>
         <item>Benutzerdefinierte Farbe</item>
     </string-array>
-    <string-array name="sim_select_entries">
-        <item>SIM 1</item>
-        <item>SIM 2</item>
-	<item>SIM 1/SIM 2</item>
-    </string-array>
     <string-array name="toggles_line_entries">
         <item>Einzeilig</item>
         <item>Alle Zeilen</item>
