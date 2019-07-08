@@ -125,6 +125,7 @@
   <string name="set_battery_size_title">Akku-Prozentanzeige (Standard 11)</string>
   <string name="set_clock_size_title">Uhr (Standard 11)</string>
   <string name="set_peeking_duration_title">Symbolanzeigedauer</string>
+  <string name="set_text_lines_title">App-Name unter Symbolen</string>
   <string name="show_search_title">Suchleiste ausblenden</string>
   <string name="smart_mobile_data_transfer">Mobile Daten während des Anrufs dektivieren</string>
   <string name="smart_mobile_one_title">Intelligentes Netzwerk SIM 1</string> 
