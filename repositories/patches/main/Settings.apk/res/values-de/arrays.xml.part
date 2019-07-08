@@ -359,7 +359,7 @@
         <item>Standard</item>
         <item>Eine Zeile</item>
         <item>Zwei Zeilen</item>
-        <item>Laufschrift</item>
+        <item>Als Laufschrift</item>
     </string-array>
     <string-array name="ts_keycode_entries">
         <item>Startseite</item>
