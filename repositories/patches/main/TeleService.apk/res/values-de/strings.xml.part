@@ -51,4 +51,5 @@
     <string name="background_color_title">Anrufhintergrund</string>
     <string name="background_color_on">Standard</string>
     <string name="background_color_off">Bildschirmhintergrund</string>
+    <string name="set_call_end_title">Aktionen während des Anrufs</string>
 </resources>
