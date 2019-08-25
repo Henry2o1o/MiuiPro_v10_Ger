@@ -80,7 +80,7 @@
   <string name="icon_shadow_title">Symbolschatten auf dem Desktop</string>
   <string name="Immediate_set">Sofort</string>
   <string name="ios_toggle_title">Symbolanordnung</string>
-  <string name="launch_camera">Ausführen der App</string>
+  <string name="launch_camera">App ausführen</string>
   <string name="launch_count_label">Zuletzt geöffnete Apps</string>
   <string name="launch_my_app_title">Start-App</string>
   <string name="listview_animation_title">List Animation</string>
@@ -124,12 +124,13 @@
   <string name="select_custom_app_title">Liste der verfügbaren Aktionen</string>
   <string name="set_battery_size_title">Akku-Prozentanzeige (Standard 11)</string>
   <string name="set_clock_size_title">Uhr (Standard 11)</string>
+  <string name="set_font_type_title">MiLanPro-Schrift deaktivieren</string>
   <string name="set_peeking_duration_title">Symbolanzeigedauer</string>
   <string name="set_text_lines_title">App-Name unter Symbolen</string>
   <string name="show_search_title">Suchleiste ausblenden</string>
   <string name="smart_mobile_data_transfer">Mobile Daten während des Anrufs dektivieren</string>
-  <string name="smart_mobile_one_title">Intelligentes Netzwerk SIM 1</string> 
-  <string name="smart_mobile_two_title">Intelligentes Netzwerk SIM 2</string>
+  <string name="smart_mobile_one_title">Intelligentes Netzwerk SIM1</string> 
+  <string name="smart_mobile_two_title">Intelligentes Netzwerk SIM2</string>
   <string name="smart_mobile_network_settings_title">Datenübertragungsstatus und Netzwerkmodus</string>
   <string name="smart_mobile_network_title">Intelligentes mobiles Netzwerk</string>
   <string name="smart_mobiledata_off">Mobile Daten sind aus</string>
