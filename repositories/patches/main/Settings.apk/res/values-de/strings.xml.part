@@ -209,6 +209,7 @@
   <string name="type_name_connected_title">Nur bei aktivem mobilen Internet</string>
   <string name="Unknown_set">Unbekannt</string>
   <string name="vibrate_on">Vibration beim Entsperren</string>
+  <string name="vibrate_skip_title">Beim Umschalten vibrieren</string>
   <string name="vol_sounds_title">Schaltet den Ton ab, der beim Beenden des Lautlos-Modus gespielt wird</string>
   <string name="volbtn_timeout_summary">Aktuell %s ms</string>
   <string name="volbtn_timeout_title">Zeitverzögerung</string>
