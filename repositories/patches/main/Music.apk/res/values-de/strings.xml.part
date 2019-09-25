@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="alert_song_not_paid">Sie haben diesen Song noch nicht gekauft.</string>
+  <string name="all_offline_song_and_auto_next">Einige Songs aus dieser Wiedergabeliste sind derzeit nicht verfügbar.</string>
+  <string name="available_playlist_name_format">Wiedergabeliste %d</string>
+  <string name="cloud_empty_summary">Songs in der XiaoMi Cloud sichern, um von anderen Geräten aus auf sie zuzugreifen</string>
+  <string name="cloud_hint_no_song_to_download">Alle Songs herunterladen</string>
+  <string name="cloud_hint_no_song_to_upload">Alle Songs hochladen</string>
+  <string name="cloud_hint_upload">Songs in die Cloud hochladen.</string>
+  <string name="cloud_hint_upload_button_text">Jetzt testen</string>
+  <string name="cloud_hint_upload_with_count_button_text">Hochladen starten</string>
+  <string name="cloud_new_user_guide_download_button_text">Songs jetzt herunterladen</string>
+  <string name="cloud_new_user_guide_download_sub_button">Benutzerdefiniertes Herunterladen</string>
+  <string name="cloud_new_user_guide_download_subtitle">Songs herunterladen und sie genießen!</string>
+  <string name="cloud_new_user_guide_upload_button_text">Songs jetzt hochladen</string>
+  <string name="cloud_new_user_guide_upload_sub_button">Benutzerdefiniertes Hochladen</string>
+  <string name="cloud_new_user_guide_upload_subtitle">Songs hochladen und sie genießen!</string>
+  <string name="cloud_space_fetch_error">Fehler beim Abrufen des Cloud-Speichers</string>
+  <string name="cloud_space_fetching">Abrufen des Cloud-Speichers</string>
+  <string name="cloud_space_hint" formatted="false">Cloud-Speicherplatz %.1fG/%.1fG</string>
+  <string name="cloud_state_view_hint_scanning">Songs scannen</string>
+  <string name="cloud_welcome_summary">Sichern Sie Ihre Songs in der XiaoMi Cloud und hören Sie sie auf anderen Geräten an</string>
+  <string name="continue_download">Herunterladen fortsetzen</string>
+  <string name="cta_runtime_perm_desc_account">Für den Zugriff auf Konten auf Ihrem Gerät, um sich mit dem Mi-Konto anzumelden.</string>
+  <string name="cta_runtime_perm_desc_audio">Zur Identifizierung von Songs über das Mikrofon</string>
+  <string name="cta_runtime_perm_desc_location">Für den Zugriff auf lokale Radiosender</string>
+  <string name="cta_runtime_perm_desc_phone">Für den Zugriff auf Geräteinformationen, um Ihr Gerät zu identifizieren</string>
+  <string name="cta_runtime_perm_desc_storage">Für den Zugriff auf Speicherplatz, um Songs, Titelbilder und Liedtexte zu speichern und darauf zuzugreifen</string>
+  <string name="cta_runtime_perm_desc_storage_single">Für den Zugriff auf Speicherplatz, um Songs, Titelbilder und Liedtexte zu speichern und darauf zuzugreifen</string>
+  <string name="declaration_main_content">"Wir werden Ihre personenbezogenen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.
+Um normal arbeiten zu können, muss diese App eine Verbindung zum Internet herstellen und benötigt die folgenden Berechtigungen, um Ihre persönlichen Daten zu erfassen:"</string>ng>
+  <string name="declaration_main_content2"><Data>"Wenn Sie nicht damit einverstanden sind, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht nutzen. Sie können in solchen Fällen diese App deinstallieren, sich abmelden oder die Berechtigungen in den Einstellungen einschränken. Lesen und stimmen Sie unserer &lt;a href=\"http://www.miui.com/res/doc/eula.html\">Nutzungsvereinbarung&lt;/a> und &lt;a href=\"https:/static.music.xiaomi.com/privacy?lang=%1$s\">Datenschutzerklärung&lt;/a> zu, bevor Sie Mi Music verwenden.
+  <string name="declaration_main_purpose">Willkommen bei Mi Musik! Mit dieser App können Sie die auf Ihrem Gerät gespeicherten Songs abspielen und Online-Inhalte streamen.</string>
+  <string name="delete_action_includ_cloud_song">Cloud-Songs löschen</string>
+  <string name="dialog_remove_album_from_favorites">Dieses Album aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_artist_from_favorites">Diesen Künstler aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_billboard_from_favorites">Diese Elemente aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_fm_from_favorites">Dieses Sender aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_multi_album_from_favorites">Ausgewählte Alben aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_multi_artist_from_favorites">Ausgewählte Künstler aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_multi_billboard_from_favorites">Ausgewählte Elemente aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_multi_song_from_favorites">Ausgewählte Songs aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_multi_songgroup_from_favorites">Ausgewählte Wiedergabelisten aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_multi_video_from_favorites">Ausgewählte Videos aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_song_from_favorites">Diesen Song aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_songgroup_from_favorites">Diese Wiedergabeliste aus den Favoriten entfernen?</string>
+  <string name="dialog_remove_video_from_favorites">Dieses Video aus den Favoriten entfernen?</string>
+  <string name="dialog_show_more_upload">Lokale songs sichern</string>
+  <string name="download_song_title">Songs zum Herunterladen auswählen</string>
+  <string name="headline_content_issue_feedback">Feedback zu inhaltlichen Fragen</string>
+  <string name="history_delete_song">Alle ausgewählten zuletzt gespielten Songs entfernen?</string>
+  <string name="latest_song"><Data>Wiedergabeliste &lt;font color=#7e7e7e>(%1$d)&lt;/font></Data></string>
+  <string name="local_download_song_guide">"Die Songs, die Sie in Kugou Musik, NetEase Musik, QQ Musik und anderen Musik-Apps herunterladen, werden hier angezeigt.
+Sie können jetzt alle Ihre Songs an einem Ort finden!"</string>
+  <string name="local_download_song_guide_title">Alle Downloads sind jetzt hier verfügbar.</string>
+  <string name="local_song">%1$d Lokale/r Song/s herunterladen</string>
+  <string name="music_quality_standard">Standard</string>
+  <string name="music_quality_ultra_high">HD-Audio</string>
+  <string name="offline_song_and_auto_next">Dieser Song ist nicht verfügbar. Vorerst übersprungen.</string>
+  <string name="optimize_all_optimize_finish">Liedtexte und Titelbilder erfolgreich heruntergeladen</string>
+  <string name="recommend_tool">Empfehlen</string>
+  <string name="scanned_delete_album">Alle Songs aus den ausgewählten Alben entfernen?</string>
+  <string name="scanned_delete_artist">Alle Songs der ausgewählten Künstler entfernen?</string>
+  <string name="scanned_delete_song">Ausgewählte Songs entfernen?</string>
+  <string name="select_uhd_quality">Umstellung auf VIP HD-Qualität</string>
+  <string name="sleep_mode_seek_bar_end">120 Minuten</string>
+  <string name="sleep_mode_seek_bar_start">1 Minute</string>
+  <string name="stop_download">Anhalten</string>
+  <string name="sync_only_in_wifi_summary">Synchronisieren Sie Ihre Musik auf allen Ihren Geräten mit XiaoMi Cloud. Die Verwendung Ihrer mobilen Datenverbindung zur Synchronisierung von Musik wird Ihre Datennutzung erhöhen. Wenn Sie das Datenlimit Ihres Tarifs überschreiten, könnte Ihr Netzbetreiber Ihnen zusätzliche Gebühren berechnen.</string>
+  <string name="video_network_negative">Streaming-Elemente mit mobilen Daten zulassen</string>
+</resources>

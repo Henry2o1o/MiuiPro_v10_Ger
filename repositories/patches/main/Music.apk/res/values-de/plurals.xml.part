@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="Ndownload_song_button">
+    <item quantity="other">%1$d Songs herunterladen (%2$.1fMB)</item>
+    <item quantity="one">%1$d Song herunterladen (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="Ndownload_songs">
+    <item quantity="other">Songs herunterladen, %1$d Songs (%2$.1fM)</item>
+    <item quantity="one">Songs herunterladen, %1$d Song (%2$.1fM)</item>
+  </plurals>
+  <plurals name="cloud_hint_upload_with_count">
+    <item quantity="other">Sie haben %d Songs zum Hochlade.</item>
+    <item quantity="one">Sie haben %d Song zum Hochladen</item>
+  </plurals>
+  <plurals name="cloud_new_user_guide_download_title">
+    <item quantity="other">Sie haben %d Songs zum Herunterladen</item>
+    <item quantity="one">Sie haben %d Song zum Herunterladen</item>
+  </plurals>
+  <plurals name="cloud_new_user_guide_upload_title">
+    <item quantity="other">Sie haben %d Songs zum Hochladen</item>
+    <item quantity="one">Sie haben %d Song zum Hochladen</item>
+  </plurals>
+  <plurals name="cloud_state_view_hint_download_pause">
+    <item quantity="other">Herunterladen angehaltener Songs, %d übrig</item>
+  </plurals>
+  <plurals name="local_song_empty_hint_button_sub_text">
+    <item quantity="other">Sie haben %1$d Songs zum Herunterladen, insgesamt %2$.1fM</item>
+    <item quantity="one">Sie haben %1$d Song zum Herunterladen, insgesamt %2$.1fM</item>
+  </plurals>
+  <plurals name="local_song_number">
+    <item quantity="other">%d Songs</item>
+    <item quantity="one">%d Song</item>
+  </plurals>
+</resources>
