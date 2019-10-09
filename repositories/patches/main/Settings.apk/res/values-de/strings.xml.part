@@ -129,6 +129,8 @@
   <string name="set_font_type_title">MiLanPro-Schrift deaktivieren</string>
   <string name="set_peeking_duration_title">Symbolanzeigedauer</string>
   <string name="set_text_lines_title">App-Name unter Symbolen</string>
+  <string name="show_powermenu_title">Powermenü deaktivieren</string>
+  <string name="show_powermenu_summary">Powermenü deaktivieren, wenn der Bildschirm gesperrt ist.</string>
   <string name="show_search_title">Suchleiste ausblenden</string>
   <string name="show_weather_city_title">Stadt anzeigen</string>
   <string name="show_weather_description_title">Beschreibung anzeigen</string>
