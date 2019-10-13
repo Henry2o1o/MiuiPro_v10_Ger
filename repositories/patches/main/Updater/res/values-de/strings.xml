@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="set_connect_error_msg">Netzwerkeinstellungen überprüfen und erneut versuchen. Wenn Sie danach immer noch keine Updates herunterladen können, melden Sie dieses Problem mithilfe der App \"Feedback &amp; Dienste\".</string>
+  <string name="set_connect_error_msg">Netzwerkeinstellungen überprüfen und erneut versuchen. Wenn Sie danach immer noch keine Updates herunterladen können, melden Sie dieses Problem mithilfe der App \"Dienste &amp; Feedback\".</string>
   <string name="create_shortcut_sum">\"Updater\" zum Startbildschirm hinzufügen</string>
   <string name="format_cache_msg">In der Cache-Partition Ihres Gerätespeichers ist nicht genügend Speicherplatz für ein Update verfügbar. Auf \"Neustart"\ tippen, um die Cache-Partition zu löschen und das Gerät neu zu starten. Ihre Daten werden von dieser Aktion nicht beeinflusst.</string>
 </resources>
