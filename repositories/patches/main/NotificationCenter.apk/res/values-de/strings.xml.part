@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="answer_keyguard_key_summary">Eine Möglichkeit, auf eine eingehende Sperrbildschirmnachricht zu antworten</string>
+  <string name="answer_keyguard_key_title">Auf eine Nachricht antworten</string>
+  <string name="show_keyguard_key_summary">Eine Möglichkeit, eine eingehende Sperrbildschirmnachricht zu erweitern</string> 
+  <string name="show_keyguard_key_title">Benachrichtigungsansicht</string> 
+</resources>
