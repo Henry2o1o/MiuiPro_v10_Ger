@@ -26,6 +26,7 @@
   <string name="critical_battery_title">Kritisches Stufe</string>
   <string name="crt_animation_title">Animation bei Bildschirm aus</string>
   <string name="def_audio_title">Einstellen der Lautstärketasten</string>
+  <string name="default_search_title">Standard Assistant</string>
   <string name="developer_build">\nBeta</string>
   <string name="dim_advanced_summary">%s Prozent der Zeit vor dem Ruhezustand</string>
   <string name="dim_advanced_title">Manuelle Zeiteinstellung bis zum Abdunkeln des Bildschirms</string>
