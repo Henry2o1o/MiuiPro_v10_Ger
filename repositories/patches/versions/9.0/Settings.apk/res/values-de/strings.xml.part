@@ -560,6 +560,7 @@
   <string name="wapi_password_length_is_max">Passwort darf 64 Zeichen nicht überschreiten</string>
   <string name="wapi_password_length_is_min">Passwort darf nicht länger als 8 Zeichen sein.</string>
   <string name="wapi_password_length_is_min_to_max">Passwort muss 8-64 Zeichen haben</string>
+<string name="wellbing_title">Digital Wellbeing &amp; Jugendschutz</string>
   <string name="wifi_ap_band_select_one">Bitte für den WLAN-Hotspot mindestens eine Bandbreite auswählen:</string>
   <string name="wifi_ap_choose_auto">Automatisch</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Zugangspunkt vorübergehend voll belegt</string>
